@@ -1,21 +1,60 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2023-08-16T15:46:12.756Z"
-        },
-
-        {
-            "id": 2,
-            "description": "Hamburguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2023-08-16T15:46:12.756Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-08-16T15:46:12.756Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2023-08-16T15:46:12.756Z"
+    },
+    {
+      "description": "Beats",
+      "price": 500,
+      "category": "Produção musical",
+      "type": "income",
+      "createdAt": "2023-08-17T13:34:45.225Z",
+      "id": 3
+    },
+    {
+      "description": "Plugins",
+      "price": 250,
+      "category": "Produção Musical",
+      "type": "outcome",
+      "createdAt": "2023-08-17T13:35:35.286Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-08-17T13:49:33.314Z",
+      "id": 5
+    },
+    {
+      "description": "Ignite",
+      "price": 2040,
+      "category": "Educação",
+      "type": "outcome",
+      "createdAt": "2023-08-17T13:53:05.189Z",
+      "id": 6
+    },
+    {
+      "description": "Roblox Premium",
+      "price": 55,
+      "category": "Jogo",
+      "type": "outcome",
+      "createdAt": "2023-08-17T13:55:43.202Z",
+      "id": 7
+    }
+  ]
 }
